@@ -50,5 +50,7 @@ public class Main{
         Developer emp1 = new Developer(101, "Sumanth", 50000);
         emp1.calculateBonus();
         emp1.calculateSalary();
+
+        emp1.getDetails();
     }
 }
